@@ -10581,8 +10581,14 @@ Type: &lt;b&gt;SPC4077 / SPC 4078&lt;/b&gt;&lt;p&gt;</description>
 </segment>
 <segment>
 <pinref part="T1" gate="A" pin="S"/>
-<wire x1="205.74" y1="45.72" x2="205.74" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="205.74" y1="45.72" x2="205.74" y2="43.18" width="0.1524" layer="91"/>
 <label x="205.74" y="38.1" size="1.778" layer="95"/>
+<pinref part="U$2" gate="G$1" pin="TH"/>
+<wire x1="205.74" y1="43.18" x2="205.74" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="213.36" y1="68.58" x2="218.44" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="218.44" y1="68.58" x2="218.44" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="218.44" y1="43.18" x2="205.74" y2="43.18" width="0.1524" layer="91"/>
+<junction x="205.74" y="43.18"/>
 </segment>
 <segment>
 <pinref part="S1" gate="BEF1" pin="S"/>
