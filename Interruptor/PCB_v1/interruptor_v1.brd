@@ -68,7 +68,7 @@
 <wire x1="0" y1="43.17" x2="0" y2="0" width="0" layer="20"/>
 <rectangle x1="20.32" y1="22.86" x2="29.21" y2="33.02" layer="16"/>
 <hole x="13.208" y="32.004" drill="2"/>
-<hole x="32.766" y="14.605" drill="1.999996875"/>
+<hole x="32.639" y="14.097" drill="1.999996875"/>
 <text x="4.318" y="33.909" size="0.8128" layer="25" rot="R90">Audio</text>
 <text x="45.085" y="24.765" size="1.27" layer="25" rot="R90">Prog</text>
 <text x="40.132" y="30.607" size="1.27" layer="25" rot="R180">I2C</text>
@@ -3555,15 +3555,15 @@ design rules under a new name.</description>
 <approved hash="19,16,a6837475712fa3d9"/>
 <approved hash="19,16,8b7370857e868570"/>
 <approved hash="19,16,89f172077e0585f3"/>
-<approved hash="19,16,653236c4374064b6"/>
 <approved hash="19,16,e83a3bcc3656e5a0"/>
-<approved hash="19,16,dbb9a557aa04d4ea"/>
+<approved hash="19,16,653236c4374064b6"/>
 <approved hash="19,16,072beac5e4bf0951"/>
+<approved hash="19,16,dbb9a557aa04d4ea"/>
 <approved hash="19,16,3382f96cf6103cfe"/>
 <approved hash="19,16,1864e2dada282096"/>
 <approved hash="19,16,2eb054611cd6340b"/>
-<approved hash="19,16,a2aac85ccb3aa1cc"/>
 <approved hash="19,16,aa3ac0cccd5aa7ac"/>
+<approved hash="19,16,a2aac85ccb3aa1cc"/>
 <approved hash="19,16,38025aec552d37c3"/>
 </errors>
 </board>
